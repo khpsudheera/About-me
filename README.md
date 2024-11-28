@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haripriya&label=Profile%20views&color=0e75b6&style=flat" alt="haripriya" /> </p>
 
-- 🌱 I’m currently learning **Machine learning**
+- 🌱 I’m currently learning **Machine learning and MERN Stack**
 
 - 💬 Ask me about **Data related doubts**
 
