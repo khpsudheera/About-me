@@ -49,6 +49,6 @@ Welcome to my GitHub profile! I'm a Data analyst and currently learning Full Sta
 
 ## Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/konduri-haripriyasudheera)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudheerakonduri@gmail.com)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haripriyaworks23@gmail.com)
 
 Feel free to explore my repository 😊!!
