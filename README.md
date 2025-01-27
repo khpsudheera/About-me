@@ -43,7 +43,7 @@ Welcome to my GitHub profile! I'm a Data analyst and currently learning Full Sta
 
 - [Responsive Food munch Website](https://haripriya2.ccbp.tech/):A responsive food munch website involves designing a dynamic and user-friendly platform that seamlessly adapts to various devices and screen sizes.
 - [Tableau Projects](https://public.tableau.com/app/profile/sudheera.k/vizzes)
-- [Course wise Data analytics projects](https://github.com/guiltyamoeba?tab=repositories)
+- [Course wise Data analytics projects](https://github.com/khpsudheera?tab=repositories)
 
 ---
 
